@@ -1,0 +1,9 @@
+.test{
+    background-color:"aliceblue";
+    border-radius:'10px';
+    opacity:'90%';
+  
+  }
+  .test:hover{
+    opacity:100%;
+  }
